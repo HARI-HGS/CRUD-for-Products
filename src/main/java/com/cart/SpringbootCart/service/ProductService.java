@@ -1,8 +1,8 @@
-package com.cart.Spring_boot_cart.service;
+package com.cart.SpringbootCart.service;
 
 import java.util.List;
 
-import com.cart.Spring_boot_cart.entity.Products;
+import com.cart.SpringbootCart.entity.Products;
 
 public interface ProductService {
 
